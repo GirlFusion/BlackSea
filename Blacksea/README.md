@@ -1,0 +1,2 @@
+# BlackSea
+girlcode academy assignment
